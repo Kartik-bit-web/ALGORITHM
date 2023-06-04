@@ -1,1 +1,2 @@
 # ALGORITHM
+print('hello world')
