@@ -3,12 +3,12 @@
 # Single Linked List 
 
 class Node:
-    def __init__(self,data):
+    def intialIt(self,data):
         self.data = data
         self.next = None
 
 class PrintI:
-    def __init__(self):
+    def intialIt(self):
         self.head = None
         
     def printStat(self):
