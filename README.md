@@ -53,3 +53,6 @@ here we call the method of obj object which on gave us the LinkedList Result.
 ```
 obj.printStat()
 ```
+
+
+# Duble Linked List 
